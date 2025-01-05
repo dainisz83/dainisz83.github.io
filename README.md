@@ -5,6 +5,5 @@ A private diary of dishes we cooked
 
 ![Chowder](images/2025-01-04 Chowder.jpg)
 
-[Rhode Island Chowder](![Chowder](https://www.seriouseats.com/dairy-free-rhode-island-clam-chowder-recipe)
-)
+[Rhode Island Chowder](https://www.seriouseats.com/dairy-free-rhode-island-clam-chowder-recipe)
 
