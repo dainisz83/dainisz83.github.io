@@ -7,6 +7,8 @@ A private diary of dishes we cooked
 
 [Rhode Island Chowder](https://www.seriouseats.com/dairy-free-rhode-island-clam-chowder-recipe)
 
-<img width="170" alt="image" src="https://github.com/user-attachments/assets/031fad12-43ba-49c8-8d38-50a718cfa543" />
+## Jan 12, 2025
+
+[Roasted Chicken](https://www.youtube.com/watch?v=0Mss7hxdqvQ)
 
 
