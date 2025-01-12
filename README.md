@@ -1,6 +1,12 @@
 # Dainis-Iza-Food
 A private diary of dishes we cooked
 
+## Jan 12, 2025
+
+[Miso Tomato Chicken Stew](https://www.justonecookbook.com/miso-tomato-chicken-stew/)
+
+
+
 ## Jan 11, 2025
 
 <img width="566" alt="image" src="https://github.com/user-attachments/assets/e0486d2d-77f9-405e-93e8-8a48f2d526af" />
