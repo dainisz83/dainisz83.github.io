@@ -3,8 +3,9 @@ A private diary of dishes we cooked
 
 ## Jan 12, 2025
 
-[Miso Tomato Chicken Stew](https://www.justonecookbook.com/miso-tomato-chicken-stew/)
+<img width="519" alt="image" src="https://github.com/user-attachments/assets/1f2e9a19-4a6e-4811-8147-9e20ba4ebada" />
 
+[Miso Tomato Chicken Stew](https://www.justonecookbook.com/miso-tomato-chicken-stew/)
 
 
 ## Jan 11, 2025
