@@ -11,11 +11,11 @@ A private diary of dishes we cooked
 
 <img width="519" alt="image" src="https://github.com/user-attachments/assets/6f438073-406e-4725-879c-8230c747575d"/>
 
-Duck breast with Risotto (by Izabela, she used two recepies from the Internet which were not particularily good, thought the dish was)
+Duck breast with Risotto (Izabela used two recepies from the Internet that were not particularily good, though the dish was)
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/ee7add7f-45c3-40f4-994f-531ca9e14bb6" />
 
-Some Soudough bread by me
+Some sourdough bread by me
 
 ## Jan 12, 2025
 
