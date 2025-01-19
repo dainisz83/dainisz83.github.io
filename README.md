@@ -13,7 +13,7 @@ A private diary of dishes we cooked
 
 Duck breast with Risotto (by Izabela, she used two recepies from the Internet which were not particularily good, thought the dish was)
 
-<img width="859" alt="image" src="https://github.com/user-attachments/assets/ee7add7f-45c3-40f4-994f-531ca9e14bb6" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/ee7add7f-45c3-40f4-994f-531ca9e14bb6" />
 
 Some Soudough bread by me
 
