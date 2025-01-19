@@ -1,6 +1,3 @@
-# Dainis-Iza-Food
-A private diary of dishes we cooked
-
 ## Jan 19, 2025
 
 <img width="486" alt="image" src="https://github.com/user-attachments/assets/124d9f42-140c-439b-9821-191ee039c36d" />
