@@ -1,6 +1,22 @@
 # Dainis-Iza-Food
 A private diary of dishes we cooked
 
+## Jan 19, 2025
+
+<img width="486" alt="image" src="https://github.com/user-attachments/assets/124d9f42-140c-439b-9821-191ee039c36d" />
+
+[Whole rosted chicken](https://www.youtube.com/watch?v=0Mss7hxdqvQ&t=100s)
+
+## Jan 18, 2025
+
+<img width="519" alt="image" src="https://github.com/user-attachments/assets/6f438073-406e-4725-879c-8230c747575d"/>
+
+Duck breast with Risotto (by Izabela, she used two recepies from the Internet which were not particularily good, thought the dish was)
+
+<img width="859" alt="image" src="https://github.com/user-attachments/assets/ee7add7f-45c3-40f4-994f-531ca9e14bb6" />
+
+Some Soudough bread by me
+
 ## Jan 12, 2025
 
 <img width="519" alt="image" src="https://github.com/user-attachments/assets/1f2e9a19-4a6e-4811-8147-9e20ba4ebada" />
