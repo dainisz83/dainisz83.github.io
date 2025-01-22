@@ -2,7 +2,7 @@
 
 <img width="486" alt="image" src="https://github.com/user-attachments/assets/124d9f42-140c-439b-9821-191ee039c36d" />
 
-[Whole rosted chicken](https://www.youtube.com/watch?v=0Mss7hxdqvQ&t=100s)
+[Whole rosted chicken](https://www.youtube.com/watch?v=0Mss7hxdqvQ&t=100s){:loading="lazy"}
 
 ## Jan 18, 2025
 
