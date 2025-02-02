@@ -1,3 +1,22 @@
+## Feb 3, 2025
+
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/a1bd0404-6d36-43f7-9321-2838a6baf240" />
+
+Warm fig-morel salad bz Izabela
+
+## Feb 2, 2025
+
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/42321696-b22e-400a-b4c9-a8772eb463a3" />
+<img width="856" alt="image" src="https://github.com/user-attachments/assets/be7838e0-e4e8-4451-8684-914c1b4e96b7" />
+
+Asian dumplings, loosely inspired by [this](https://www.youtube.com/watch?v=VoTqzjg83u8&t=321s).
+
+## Jan 26, 2025
+
+<img width="802" alt="image" src="https://github.com/user-attachments/assets/0d027b15-f931-4418-9156-374f7c571017" />
+
+Asian Duck and vegetable bowl bz Iza
+
 ## Jan 19, 2025
 
 <img width="486" alt="image" src="https://github.com/user-attachments/assets/124d9f42-140c-439b-9821-191ee039c36d" />
