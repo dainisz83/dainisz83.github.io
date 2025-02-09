@@ -1,3 +1,10 @@
+
+## Feb 8, 2025
+
+<img width="527" alt="image" src="https://github.com/user-attachments/assets/773ab955-eb78-44a9-b403-f75f3a49fa41" />
+
+[Steam-braised Sea Bass](https://www.seriouseats.com/river-cottages-steam-braised-sea-bass-with-th)
+
 ## Feb 3, 2025
 
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/a1bd0404-6d36-43f7-9321-2838a6baf240" />
