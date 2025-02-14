@@ -65,6 +65,11 @@ Learned that it is a good idea to use Rissotto rice for Risotto.
 
 [Rhode Island Chowder](https://www.seriouseats.com/dairy-free-rhode-island-clam-chowder-recipe)
 
+## Next dish
+
+[cured egg yolg botarga pasta](https://www.youtube.com/watch?v=kp6F7jW5cmI)
+
+
 
 
 ## Future Recepies:
