@@ -79,4 +79,6 @@ Learned that it is a good idea to use Rissotto rice for Risotto.
 
 [Roasted Chicken](https://www.youtube.com/watch?v=0Mss7hxdqvQ)
 
+[Some interesting recepies e.g. Cale with Kimchi](https://www.youtube.com/watch?v=EgEnbcjeexo&t=1012s)
+
 
