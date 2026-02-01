@@ -9,7 +9,11 @@ source_url: https://www.seriouseats.com/river-cottages-steam-braised-sea-bass-wi
 image: assets/images/steam-braised-sea-bass.jpg
 ---
 
+![Steam-braised sea bass finished with scallions and ginger](assets/images/steam-braised-sea-bass.jpg)
+
 A delicate fish dish referenced from Serious Eats—chill the bass in a bamboo steamer, tuck in ginger and scallions, and finish with a splash of ponzu.
+
+> Source: [Serious Eats—River Cottage steam-braised sea bass](https://www.seriouseats.com/river-cottages-steam-braised-sea-bass-with-th)
 
 #### Ingredients
 - 2 sea bass fillets
@@ -24,4 +28,4 @@ A delicate fish dish referenced from Serious Eats—chill the bass in a bamboo s
 2. Steam for 8–10 minutes (until the flesh flakes), remove, and top with fresh scallion oil.
 3. Serve with ponzu or soy, and a side of jasmine rice.
 
-> **Tip:** Reserve the steaming liquid for soup stock—salty, umami-rich base for next day’s broth.
+> **Tip:** Reserve the steaming liquid for soup stock—salty, umami-rich base for next day’s broth, and pair this with [Lasagna Bolognese al Forno](lasagna-bolognese.md) for a contrast of textures.
