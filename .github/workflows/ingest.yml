@@ -1,0 +1,30 @@
+name: Ingest OpenClaw Updates
+
+on:
+  workflow_dispatch:
+    inputs:
+      payload_path:
+        description: "Path to OpenClaw payload JSON"
+        default: "data/openclaw_updates.json"
+        required: true
+        type: string
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Sanitize payload and write drafts
+        run: |
+          python scripts/ingest_openclaw_updates.py --input "${{ inputs.payload_path }}"
+
+      - name: Show recipe drafts
+        run: |
+          git status --short
