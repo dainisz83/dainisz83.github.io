@@ -1,0 +1,55 @@
+site_name: Dining with Dainis & Izabela
+site_description: A curated cookbook of dishes we cook together.
+site_url: https://dainisz83.github.io
+repo_url: https://github.com/dainisz83/dainisz83.github.io
+repo_name: dainisz83/dainisz83.github.io
+
+docs_dir: recipes
+site_dir: site
+
+extra:
+  social:
+    - icon: fontawesome/solid/utensils
+      link: https://github.com/dainisz83/dainisz83.github.io
+  hero:
+    title: Recipes we love
+    description: Markdown + Material theme for a beautiful, searchable cookbook.
+    actions:
+      - text: Browse recipes
+        link: '#recipes'
+        type: primary
+    image: https://images.unsplash.com/photo-1506354666786-959d6d497f1a?auto=format&fit=crop&w=1600&q=80
+
+nav:
+  - Home: index.md
+  - Recipes:
+      - Moussaka: moussaka.md
+      - "Steam-braised sea bass": steam-braised-sea-bass.md
+      - "Rhode Island chowder": rhode-island-chowder.md
+
+theme:
+  name: material
+  palette:
+    - scheme: slate
+      primary: teal
+      accent: amber
+  features:
+    - navigation.instant
+    - toc.integrate
+    - tabs.sticky
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - pymdownx.details
+  - pymdownx.superfences
+  - toc:
+      permalink: true
+
+plugins:
+  - search
+  - minify:
+      minify_html: true
+
+extra_css:
+  - stylesheets/overrides.css

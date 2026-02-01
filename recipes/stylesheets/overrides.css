@@ -1,0 +1,17 @@
+.md-nav__title {
+  font-family: 'Playfair Display', serif;
+}
+
+.hero {
+  background: linear-gradient(120deg, rgba(12, 62, 46, 0.85), rgba(7, 78, 105, 0.8)), url('https://images.unsplash.com/photo-1506354666786-959d6d497f1a?auto=format&fit=crop&w=1600&q=80') center/cover;
+}
+
+.md-content {
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+.md-typeset h1,
+.md-typeset h2 {
+  font-family: 'Playfair Display', serif;
+}
