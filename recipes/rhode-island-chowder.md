@@ -9,7 +9,11 @@ image: assets/images/chowder-2025-01-04.jpg
 source_url: https://www.seriouseats.com/dairy-free-rhode-island-clam-chowder-recipe
 ---
 
+![A steaming bowl of Rhode Island chowder](assets/images/chowder-2025-01-04.jpg)
+
 Creamy mussel, clam and potato stew inspired by the Rhode Island recipe. The saffron-yellow broth hides a gentle hit of smoke from the clams.
+
+> Source: [Serious Eats—dairy-free Rhode Island clam chowder](https://www.seriouseats.com/dairy-free-rhode-island-clam-chowder-recipe)
 
 #### Ingredients
 - 1 kg mussels and clams, scrubbed

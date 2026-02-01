@@ -26,6 +26,7 @@ nav:
       - Moussaka: moussaka.md
       - "Steam-braised sea bass": steam-braised-sea-bass.md
       - "Rhode Island chowder": rhode-island-chowder.md
+      - "Lasagna Bolognese al Forno": lasagna-bolognese.md
 
 theme:
   name: material

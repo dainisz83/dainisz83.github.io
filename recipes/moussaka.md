@@ -9,8 +9,12 @@ source_url: https://www.theguardian.com/lifeandstyle/wordofmouth/2012/apr/05/how
 image: assets/images/moussaka.jpg
 ---
 
+![A golden tray of moussaka ready to slice](assets/images/moussaka.jpg)
+
 ### Why this version
 A layered aubergine-and-beef bake inspired by the Guardian’s classic, updated with a quicker bechamel and extra oregano for warmth. Keep it bubbling in the oven while the Greek salad gets assembled.
+
+> Source: [Guardian—How to cook perfect moussaka](https://www.theguardian.com/lifeandstyle/wordofmouth/2012/apr/05/how-to-cook-perfect-moussaka)
 
 #### Ingredients
 - 2 aubergines, sliced lengthwise
