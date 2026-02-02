@@ -3,6 +3,7 @@ import argparse
 import datetime
 import re
 import shutil
+import unicodedata
 import subprocess
 import textwrap
 import urllib.request
@@ -10,6 +11,8 @@ from pathlib import Path
 
 
 def slugify(value: str) -> str:
+    value = unicodedata.normalize('NFKD', value)
+    value = value.encode('ascii', 'ignore').decode('ascii')
     value = value.lower()
     value = re.sub(r"[^a-z0-9]+", "-", value)
     value = value.strip("-")
