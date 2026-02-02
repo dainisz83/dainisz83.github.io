@@ -25,8 +25,10 @@ nav:
   - Recipes:
       - Moussaka: moussaka.md
       - "Steam-braised sea bass": steam-braised-sea-bass.md
+      - "Lasagna Bolognese al Forno": lasagna-bolognese.md
       - "Rhode Island chowder": rhode-island-chowder.md
       - "Garlic-Parmesan Air-Fryer Chicken Wings": garlic-parmesan-air-fryer-chicken-wings.md
+      - "Körner Zwirbel Alltagsbrot": koerner-zwirbel-alltagsbrot.md
 
 theme:
   name: material
